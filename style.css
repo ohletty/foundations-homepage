@@ -1,0 +1,49 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    background-color: #1F2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.headerlinks{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    
+}
+
+.title{
+    background-color: #1F2937;
+}
+
+.info{
+
+
+}
+
+.quote{
+
+}
+
+.signup{
+
+}
+
+.footer{
+    background-color: #1F2937;
+}
