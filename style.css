@@ -8,28 +8,38 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-size: 48px;
-    font-weight: 800;
+    font-size: 24px;
+    font-weight: bolder;
 }
 
 .headerlinks{
     display: flex;
     justify-content: space-between;
-    font-size: 18px;
     font-weight: normal;
+}
+
+.herosecondary{
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 ul{
     list-style-type: none;
     display: flex;
     justify-content: space-between;
-    gap: 10px;
-    
+    gap: 16px; 
 }
 
 .title{
     background-color: #1F2937;
 }
+
+.heromain{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
 
 .info{
 
